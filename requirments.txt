@@ -1,0 +1,7 @@
+PyQt5
+keras
+tensorflow
+librosa
+scikit-learn
+numpy
+opencv-python
